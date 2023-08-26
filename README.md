@@ -23,7 +23,7 @@ Certifique-se de ter os seguintes requisitos instalados em seu ambiente de desen
 1. Clone o repositório para o seu ambiente local:
 
 ``
-   git clone https://github.com/seu-usuario/dc-vendas.git
+   git clone https://github.com/DaniloBronze/dc-vendas.git
 ``
 
 2. Instale as dependências usando o Composer:
