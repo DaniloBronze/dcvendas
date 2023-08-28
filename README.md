@@ -22,32 +22,32 @@ Certifique-se de ter os seguintes requisitos instalados em seu ambiente de desen
 
 1. Clone o repositório para o seu ambiente local:
 
-``
+```bash
    git clone https://github.com/DaniloBronze/dcvendas.git
-``
+```
 
 2. Instale as dependências usando o Composer:
-``
+```bash
     composer install
-``
+```
 
 3. Configure as informações de banco de dados no arquivo .env:
    
-``
+```bash
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
 DB_DATABASE=seu_banco_de_dados
 DB_USERNAME=seu_usuario
 DB_PASSWORD=sua_senha
-``
+```
 4. Execute as migrações do banco de dados e tudo mais:
 
-``
+```bash
 php artisan migrate
 php artisan serve
 npm run dev
-``
+```
 
 5. Caso prefira, também disponibilizamos um banco de dados pré-configurado dentro do projeto.
 
