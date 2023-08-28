@@ -23,12 +23,12 @@ Certifique-se de ter os seguintes requisitos instalados em seu ambiente de desen
 1. Clone o repositório para o seu ambiente local:
 
 ```bash
-   git clone https://github.com/DaniloBronze/dcvendas.git
+git clone https://github.com/DaniloBronze/dcvendas.git
 ```
 
 2. Instale as dependências usando o Composer:
 ```bash
-    composer install
+composer install
 ```
 
 3. Configure as informações de banco de dados no arquivo .env:
