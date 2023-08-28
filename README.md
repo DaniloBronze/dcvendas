@@ -49,7 +49,10 @@ php artisan serve
 npm run dev
 ```
 
-5. Caso prefira, também disponibilizamos um banco de dados pré-configurado dentro do projeto.
+5. Caso prefira, também disponibilizamos um banco de dados pré-configurado dentro do projeto, com o usuário e senha:
+```bash
+test@gmail.com:81165761
+```
 
 ## Uso 💼🖥️
 Acesse o aplicativo em seu navegador em http://localhost:8000. Você pode fazer login ou registrar-se como usuário para começar a usar as funcionalidades do sistema.
